@@ -38,10 +38,10 @@
 
 <div>
   
-  ## 📖 React questions and answers
+  ## 📖 React Learnings.
 
   1. **JSX** (JavaScript XML) is a syntax extension for JavaScript that allows us to write HTML-like markup directly inside our JavaScript code. React uses it to make UI structure and rendering easier.
-  2. **Props** are read-only and passed from a parent component to a child component to supply dynamic data. **State** is mutable local data managed directly within a component that trigger a UI re-render when changed.
+  2. **Props** are read-only and passed from a parent component to a child component to supply dynamic data. **State** is mutable local data managed directly within a component that triggers a UI re-render when changed.
   3. **useState** adds local state to a functional component and triggers a re-render when updated.
   4. **useEffect** handles side effects in functional components. We need this to fetch our JSON file asynchronously after the initial component renders.
   5. React uses unique keys to track which specific list items are changed. This enables updates without re-rendering the entire list.
